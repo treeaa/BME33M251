@@ -20,3 +20,4 @@ READ_OK		LITERAL1              // LITERAL1 （ 藍色 ）—— const常量1
 READ_ERROR	LITERAL1              // LITERAL1 （ 藍色 ）—— const常量2
 NO_ACK		LITERAL1           // LITERAL1 （ 藍色 ）—— 宏常量
 BME33M251_ADDR	LITERAL1           // LITERAL1 （ 藍色 ）—— 宏常量
+NO_ACKF LITERAL1
