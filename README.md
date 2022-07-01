@@ -14,12 +14,12 @@ Repository Contents
 * **library.properties** - General library properties for the Arduino package manager. 
 
 Documentation 
---------------
+-------------------
 
 * **[BMK52T016 User's Guide_V1.0.0_220629 ]( https://www.bestmodulescorp.com/ )** - User's Guide.
 
 Version History  
----------------------------------
+-------------------
 
 * **V1.0.0** - Initial public release.
 
